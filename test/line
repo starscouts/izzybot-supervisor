@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Hello, I'm a long-running program."
+echo "This one prints multiple lines."
+echo -e "This one is\na single echo command"
+sleep 60
+echo "I have been running for 1 minute!"

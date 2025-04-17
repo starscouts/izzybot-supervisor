@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Hello, I'm a failing program."
+exit 3

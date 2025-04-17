@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Hello, I'm a .panic program."
+exit 255

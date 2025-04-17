@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Hello, I'm a long-running program."
+sleep 60
+echo "I have been running for 1 minute!"
